@@ -165,6 +165,10 @@ React is a living framework that is constantly being updated and improved upon. 
 
 In older versions a method, `React.createClass()`, was used in place of where we were defining our own `Class`es and extending the `React.component` class (see code above!). While this `React.createClass()` method of creating React components has since been deprecated, it is still present in many older code bases and tutorials. For now, we recommend sticking with the up-to-date class syntax we present, but don't be alarmed if you come across unfamiliar ways to create React components. The [React documentation][old-react] is always there for you regarding backwards compatibility.
 
+## Why Do I have to submit this?
+
+The world may never know. 
+
 ## Resources
 - [React Top-Level API](https://reactjs.org/docs/react-api.html)
 
